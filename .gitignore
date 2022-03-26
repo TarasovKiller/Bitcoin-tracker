@@ -1,6 +1,4 @@
 /vendor
-/composer.json
-/composer.lock
 /.vscode
 /.site.php
 /.quickstart.php
