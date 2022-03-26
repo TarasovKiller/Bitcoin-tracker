@@ -1,7 +1,7 @@
 # Bitcoin-tracker
 Гугл таблица, в которую записывается курс биткоина - https://docs.google.com/spreadsheets/d/1O1Ws-LG68NrJ6NNxdIsvCvnFEi5WihZPL2gT9fmnogg/edit#gid=0
 
-Запуск sheet.php собирает данные о биткоине с https://www.cryptocompare.com/ и используя Google Sheet API добавляет в гугл таблицу.
+Запуск sheet.php собирает данные о биткоине с https://www.cryptocompare.com/ и используя Google Sheets API добавляет в гугл таблицу.
 
 Автоматическое повторение скрипта можно реализовать двумя способами: через Heroku с Sheduler и через планировщик заданий. Я сделал через планировщик.
 
