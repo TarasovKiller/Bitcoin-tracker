@@ -8,3 +8,4 @@
 1) Создал bat файл (script.bat) и туда записал ***D: && php "User Files"\PHPProjects\HelloWorld\sheet.php***
 2) Настроил триггер с интервалом запуска на каждый час
 ![image](https://user-images.githubusercontent.com/74830291/160255853-e09bda95-2b93-41fb-a1ea-95521905f124.png)
+3) Выполнял script.bat каждый час.
