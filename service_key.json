@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "btcproject-345219",
+  "private_key_id": "e0ff28bd2bf57d90ca32ec1caa211f49f79f9de7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCZ7uZdtNx4K7C+\nnlZeI9SxXZ99tT4JPM/dSg0Qp0U7vMTQONmcjEAy+BCacRkw5X2V8Ii7T/qdcCfu\nijG9H0UACDigXMc7QMJ2rh3qsLOvVdxoAmUFlT38GTL+p881MiZlabeqm9jSg0ca\n8akUObWW3R+RqtV+pYzEqeSWrYvijxsUHm3O/MKl81LDvvJNVlLcpA9jyqQ0yUDK\nv0gTHbP+D9QA5eUvs9MjFuGMTpbJVk/gAP4qfNEaFlufbzV5IDzE7pDMfe40n9no\nkuKzqZmlVpGFjWm41Re6Ozi2euo5xtgfC1Bm2CRJIa+Y8M+/4ItGGs+sPJdXBNt2\n2Lu5WjfRAgMBAAECggEAO4Ry3r1s1yvxaSp4c2rANJnh7m1y4Ih6SHH2zj8Wlkvc\n/zNT9GMH+Y0Pgl+DYXQCFETN4TrByDjSv7kAFUMvXx1Oo7Zrs/3Mkq2s1I7g0sTM\ndQyj+b4kGsK1hF/mzocm8GQpRxZ+BZsLlZ/lg3PywbOanqxiYtbosCuOPjI42W5o\nab1Zj1w9rb5S1rT89bBQF8tKjQB4Trkiev1WjjyLQcc9T91GI7vK8UJewhAl+P1K\nlLKX1cOKFhgfgEsgOj6ELDwWAHsrTiyIZ7nLEngYHeYx6I6eSa2J1JuYXffPCkK5\n6mdVEIbpU35gpcyFy4wbqDZ93XhiyOuDCJQ4HcAOFwKBgQDY5pS8F/Uzej7h4Odb\nQf/SuAv6VsMSLshfebHvIYBXvT+50GnZraPx1fau7ea92a0oC5nAU6XaVyLVh8lI\nLCA3vbCOpN4U3x2t4mdBJuI1tx+QxYBDXXnqa7wCtxd8aLGPFP/PofbOX7PCLfBj\nqjPUbFr8qh/+ohKmLLP3n5X4IwKBgQC1roceuNrni49rHK61FADbMsy+ojPK1F5z\nQ/iJAx8xCkxXMv06vl8USNgVb//Ws7pvi2ilQMI+nH907wDXhTwgim34Fi9sDGvf\n0OgM5lAzn8DaQtJg2qnRLseojDB8Sc3NF3gUAj1mHNXg+DOnDx+81+YktcMkygms\nIg7lgsx1ewKBgG1ctZmxKrzt4k7Zq01kFa0Vh1SN8oV0eStKnODJr4CNt1flMbnD\nx2nkTCEfarxGyPvr/XXvtyxDyxiHAoIVXZk9V4xUrHUxmjFWemFrTZtv3caNDoLo\n2tPLxlxIHNtpnj1ahTEXpO2ha2145EAcTU3J5IaI8ODerzCCUauFF4SpAoGAdxuN\nP+nmsUgAZTNvog0UJqBeNFg4Zi/mH+Eezgw65bafp8co1ts5kB3Vc/ByJHq9riUS\nHMygy9VjhfCud5zEd3zpbWx1+HsIObpGdzaCu+Vu1GhcbdzM2fO2N1x46PKltmA9\ne7igMhKTcSKnEk3K+8369nQnFDZUMwI9C+A9VIMCgYB+zpZkHXakT5Dt1hiS+vIW\ns8sYpB5h+vAmrxLZL29YizZtoDfpJrv2Po4FCh5FnITWtIWYM9lAvthUTYHhKXv7\nFEvCXvM2H++evOrlYhB5VSD7XE5dtMgqhXgoW70GIqveoWkEnDruB/Y8QWr+wLiF\nrPnEUviunFbEV/FCkZ+fMA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheetsphp@btcproject-345219.iam.gserviceaccount.com",
+  "client_id": "103908755402802485362",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheetsphp%40btcproject-345219.iam.gserviceaccount.com"
+}
