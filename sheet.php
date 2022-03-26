@@ -27,27 +27,6 @@ $service = new Google_Service_Sheets($client);
 $response = $service->spreadsheets->get($spreadsheetId);
 $sheetProperties = $response->getSheets()[0]->getProperties();
 
-print($sheetProperties->title);
-
-$rows = $sheetProperties->getGridProperties()->rowCount;
-
-//Range Reading
-// $range = "List 1!A2:D4";
-// $response = $service->spreadsheets_values->get($spreadsheetId, $range);
-// $values = $response->getValues();
-// if(empty($values)) {
-//     print "No date\n";
-// }else {
-//     $mask = "%10s %-10s %s\n";
-//     foreach ($values as $row) {
-//         echo sprintf($mask, $row[3],$row[2],$row[1]);
-//     }
-// }
-// print($rows);
-
-
-
-// Range Updating
 
 $time_now = date('d.m.Y H:i:s');
 $range = "List 1";
@@ -71,11 +50,4 @@ $result = $service->spreadsheets_values->append(
     $insert
 );
 
-
-// Идентификатор таблицы
-// $csv = file_get_contents('https://docs.google.com/spreadsheets/d/' . $spreadsheetId . '/export?format=csv&gid=' . $sheetid);
-// $csv = explode("\r\n", $csv);
-// $array = array_map('str_getcsv', $csv);
-
-// print_r($array);
 ?>
